@@ -1,5 +1,6 @@
 
-![twidentity](https://user-images.githubusercontent.com/66665865/171926609-5ba64426-ad0d-406d-a3e7-ab86304aba06.png)
+|![twidentity](https://user-images.githubusercontent.com/66665865/171926609-5ba64426-ad0d-406d-a3e7-ab86304aba06.png)|
+| :--: |
 
 # Twidentity
 OSINT tool built using R and RShiny for Twitter
